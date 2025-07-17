@@ -20,14 +20,22 @@ This repo contains well-organized, commented, and tested solutions for a variety
 
 ## 📁 Folder Structure
 ```
+## 📁 Folder Structure
+
 hackerrank-solutions/
 └── C++/
-    └── Introduction/
-        ├── say-hello-world.cpp
-        ├── basic-data-types.cpp
-        ├── conditional-statements.cpp
-        ├── for-loop.cpp
-        ├── functions.cpp
-        ├── pointers.cpp
-        ├── arrays-introduction.cpp
-        └── variable-sized-arrays.cpp
+    ├── Introduction/
+    │   ├── say-hello-world.cpp
+    │   ├── basic-data-types.cpp
+    │   ├── conditional-statements.cpp
+    │   ├── for-loop.cpp
+    │   ├── functions.cpp
+    │   ├── pointers.cpp
+    │   ├── arrays-introduction.cpp
+    │   └── variable-sized-arrays.cpp
+    │
+    └── Strings/
+        ├── strings.cpp
+        ├── string-stream.cpp
+        └── attribute-parser.cpp
+```
