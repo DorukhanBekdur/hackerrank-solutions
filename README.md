@@ -19,3 +19,30 @@ This repo contains well-organized, commented, and tested solutions for a variety
 
 ---
 
+## 📁 Folder Structure
+```
+hackerrank-solutions/
+└── C++/
+|    └── Introduction/
+|        └── hello-world.cpp
+|
+├── Algorithms/
+│   ├── Warmup/
+│   │   └── solve-me-first.c
+│   └── Implementation/
+│
+├── DataStructures/
+│   ├── Arrays/
+│
+├── SQL/
+│   ├── Basic/
+│
+├── Python/
+│   └── problem-name.py
+│
+├── JavaScript/
+│   └── problem-name.js
+│
+└── README.md
+
+
